@@ -10,7 +10,7 @@ Ez a projekt MRI felvételek feldolgozásával foglalkozik, ahol a cél:
 
 A rendszer különböző deep learning modelleket használ, valamint frekvenciatérbeli (Fourier) transzformációkat alkalmaz a teljesítmény javítása érdekében.
 
-## 🧠 Klasszifikáció (Classification)
+##  Klasszifikáció (Classification)
 
 ### 📂 DenseNet121
 - densenet121_classification.ipynb
